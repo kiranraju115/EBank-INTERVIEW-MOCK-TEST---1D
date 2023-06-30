@@ -1,0 +1,27 @@
+.not-found-card {
+  background-color: #f8fafc;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-found-image {
+  width: 30%;
+}
+
+.not-found-heading {
+  font-family: 'Roboto';
+  color: #183b56;
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.not-founding-para {
+  font-family: 'Roboto';
+  color: #183b56;
+  font-weight: 400;
+  font-size: 16px;
+}
